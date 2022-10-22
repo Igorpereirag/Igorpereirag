@@ -7,7 +7,7 @@
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&layout=compact&hide_border=true&title_color=00bfbf&text_color=19E949&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Igorpereirag&theme=gotham&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Igorpereirag&theme=gotham&hide_border=false&area=true)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
