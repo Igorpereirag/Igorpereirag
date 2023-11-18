@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19E949&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+IGOR+PEREIRA;I'm+softwere+developer;)](https://git.io/typing-svg)
 
-<div align="center">  
+
 <div align="center">  
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Igorpereirag&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=19E949&bg_color=0d1117" alt="IGOR PEREIRA github stats" /> 
   <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&layout=compact&hide_border=true&title_color=00bfbf&text_color=19E949&bg_color=0d1117" />
 </div>
-</div>
+
 ### Skills
 
 <p align="left">
@@ -15,7 +15,6 @@
 </p>
 
 ### Socials
-
 <p align="left"> <a href="https://www.github.com//Igorpereirag" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@igorpereirag" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
 
   <div align="center">
