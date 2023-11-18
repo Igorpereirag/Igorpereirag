@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19E949&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+IGOR+PEREIRA;I'm+softwere+developer;)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Igorpereirag&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=19E949&bg_color=0d1117" alt="IGOR PEREIRA github stats" /> 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/Igorpereirag"><img src="https://github-readme-stats.vercel.app/api?username=Igorpereirag&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Igorpereirag's GitHub stats" /></a>
 
+<a href="https://github.com/Igorpereirag" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&langs_count=10&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 ### Skills
 
 <p align="left">
