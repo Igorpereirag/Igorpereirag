@@ -1,7 +1,4 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19E949&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+IGOR+PEREIRA;I'm+softwere+developer;)](https://git.io/typing-svg)
-
 
 <div align="center">  
   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Igorpereirag&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=19E949&bg_color=0d1117" alt="IGOR PEREIRA github stats" /> 
@@ -18,19 +15,3 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Igorpereirag}/count.svg" /></p> 
 <br></div>
-
-  <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored.svg" width="36" height="36" alt="Coffeescript" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-  <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="URL_DO_ICONE_SPRING_BOOT" width="36" height="36" alt="Spring Boot" /></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="URL_DO_ICONE_POSTMAN" width="36" height="36" alt="Postman" /></a>
-  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="URL_DO_ICONE_SWAGGER" width="36" height="36" alt="Swagger" /></a>
-</p>
-
-
-
