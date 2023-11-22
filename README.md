@@ -5,6 +5,7 @@
   <img width="30%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&layout=compact&hide_border=true&title_color=19E949&text_color=19E949&bg_color=0d1117" />
 </div>
 
+ <p>### <span style="color: #19E949;">Skills</span></p>
 ### Skills
 
 <p align="left">
