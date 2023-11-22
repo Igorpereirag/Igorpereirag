@@ -5,7 +5,7 @@
   <img width="30%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igorpereirag&layout=compact&hide_border=true&title_color=19E949&text_color=19E949&bg_color=0d1117" />
 </div>
 
- <p> aling="left" style="color: #19E949;">Skills</p>
+ <h3 align="left"; style="color: #19E949;">Skills</h3>
 ### Skills
 
 <p align="left">
