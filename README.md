@@ -27,5 +27,5 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85" width="60px" /></a>  
+<a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="85"  height="36" /></a>  
 
