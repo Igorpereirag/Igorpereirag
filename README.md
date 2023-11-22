@@ -28,7 +28,7 @@
 
 <div>
  <a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="95"  height="25" /></a>  
-<a href = "mailto:igorpereira1501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width="95"  height="25"   target="_blank"></a>
+<a href = "mailto:igorpereira1501@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  width="70"  height="25"   target="_blank"></a>
 
 </div>
 
