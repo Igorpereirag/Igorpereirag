@@ -7,13 +7,9 @@
 
  
 
-<br clear="both">
-
-<h4 align="center">🛠 Language and tools</h4>
-
-<br clear="both">
 
 <div align="center">
+<h4 align="center">🛠 Language and tools</h4>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
   </a>
@@ -67,8 +63,10 @@
 </a>
 </div>
 
-
-
-
-
+<style>
+  /* Estilo para remover sublinhado de links */
+  a {
+    text-decoration: none;
+  }
+</style>
 
