@@ -22,7 +22,7 @@
 
 <h4>🛠 Languages and tools:</h4>
 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="32" alt="java logo" />
   </a>
   <img width="6" />
