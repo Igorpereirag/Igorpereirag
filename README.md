@@ -68,3 +68,9 @@
 
 
 
+<style>
+  /* Estilo para remover sublinhado de links */
+  a {
+    text-decoration: none !important;
+  }
+</style>
