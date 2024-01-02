@@ -8,6 +8,8 @@
  
 
 
+
+<div align="center ">
 <div>
  <a href="https://www.linkedin.com/in/igorpereirag/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="78"  height="25" /></a>  
 
@@ -15,10 +17,6 @@
   <img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="medium" width="78" height="25" style="margin-bottom: 5px;" />
 </a>
 </div>
-
-
-
-<div align="center ">
 <h4>🛠 Languages and tools:</h4>
 
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
