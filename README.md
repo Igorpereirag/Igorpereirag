@@ -8,45 +8,50 @@
  
 
 
-<div align="center">
+<br clear="both">
+
 <h4 align="center">🛠 Language and tools</h4>
-  <a href="https://www.java.com/" target="_blank">
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
   </a>
   <img width="6" />
-  <a href="https://spring.io/" target="_blank">
+  <a href="https://spring.io/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
   </a>
   <img width="6" />
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   </a>
   <img width="6" />
-  <a href="https://www.selenium.dev/" target="_blank">
+  <a href="https://www.selenium.dev/" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo" />
   </a>
   <img width="6" />
-  <a href="https://firebase.google.com/" target="_blank">
+  <a href="https://firebase.google.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
   </a>
   <img width="6" />
-  <a href="https://www.mysql.com/" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo" />
   </a>
   <img width="6" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   </a>
   <img width="6" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo" />
   </a>
   <img width="6" />
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo" />
   </a>
   <img width="6" />
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo" />
   </a>
 </div>
@@ -63,10 +68,5 @@
 </a>
 </div>
 
-<style>
-  /* Estilo para remover sublinhado de links */
-  a {
-    text-decoration: none;
-  }
-</style>
+
 
