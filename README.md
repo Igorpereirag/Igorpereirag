@@ -15,8 +15,8 @@
 </div>
 
 <div align="left">
-<h3 align="left">##skills</h3>
-<p >
+<h3> ##skills </h3>
+<p>
 
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="24" height="24" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="24" height="24"/></a> 
