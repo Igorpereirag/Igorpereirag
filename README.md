@@ -14,7 +14,7 @@
 
 </div>
 
-<div>
+<div align="left">
 <h3 align="left">##skills</h3>
 <p >
 
