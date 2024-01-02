@@ -22,6 +22,7 @@
 
 <h4>🛠 Languages and tools:</h4>
 
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="34" alt="java logo" />
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
@@ -30,6 +31,8 @@
   <img width="4" />
   <img src="https://skillicons.dev/icons?i=selenium" height="30" alt="selenium logo"  />
   <img width="4" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="4"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="4" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
@@ -41,5 +44,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-
+  
 </div>
