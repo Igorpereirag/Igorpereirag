@@ -20,7 +20,7 @@
 
 <div align="center ">
 <h4>🛠 Languages and tools:</h4>
-<p>
+
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="32" alt="java logo" />
   </a>
@@ -60,5 +60,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo" />
   </a>
-  </p>
+  
 </div>
