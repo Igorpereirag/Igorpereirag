@@ -10,7 +10,7 @@
 
 
 <div align="center ">
-<h4 align="center" style="color: #19E949;">🛠 Languages and tools:</h4>
+<h4 style="color: #19E949;">🛠 Languages and tools:</h4>
 <p>
   <a href="https://www.java.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="32" alt="java logo" />
