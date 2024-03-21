@@ -1,7 +1,7 @@
 
-<div align="center ">
+<div align="center">
 <h4>🛠 Languages, frameworks and tools:</h4>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="29" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="30" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo"  />
   <img width="5" />
